@@ -1,0 +1,105 @@
+# Translation of Plugins - Learning Objects LMS - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Learning Objects LMS - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-08 11:10:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Learning Objects LMS - Development (trunk)\n"
+
+#: include/interfaccie-amministrative.php:87
+msgid "Save Changes"
+msgstr "Guardar los cambios"
+
+#: include/interfaccie-amministrative.php:82
+msgid "Consumer Secret"
+msgstr "Clave secreta del cliente"
+
+#: include/interfaccie-amministrative.php:80
+msgid "Consumer Key"
+msgstr "Clave del cliente"
+
+#: include/interfaccie-amministrative.php:78
+msgid "Base Url"
+msgstr "URL base"
+
+#: include/interfaccie-amministrative.php:77
+msgid "Parametri connessione Piattaforma e-learning"
+msgstr "Parámetros de conexión a la plataforma de aprendizaje electrónico"
+
+#: include/interfaccie-amministrative.php:71
+msgid "I dati inseriti non sono corretti."
+msgstr "Los datos introducidos no ​​son correctos."
+
+#: include/interfaccie-amministrative.php:66
+msgid "Dati aggiornati con successo"
+msgstr "Datos actualizados correctamente"
+
+#: include/interfaccie-amministrative.php:46
+msgid "Compilare la Consumer Key"
+msgstr "Introduce la clave de cliente"
+
+#: include/interfaccie-amministrative.php:39
+msgid "Compilare la Base Url"
+msgstr "Introduce la URL base"
+
+#: include/interfaccie-amministrative.php:35
+msgid "La Base Url non è valida"
+msgstr "La URL base no es válida"
+
+#: include/interfaccie-amministrative.php:15
+#: include/interfaccie-amministrative.php:101
+msgid "Configurazione Learning Objects"
+msgstr "Configuración de Learning Objects"
+
+#: include/function.php:185
+msgid "Per poter seguire i corsi acquistati, accedere al sito <a href=\"%1$s\" >%1$s</a> con le sue credenziali create in fase di acquisto: la sua email e password riservata"
+msgstr "Para seguir los cursos comprados, accede al sitio <a href=\"%1$s\" >%1$s</a> con las credenciales que has creado durante el proceso de compra: tu correo electrónico y tu contraseña privada"
+
+#: include/campi-aggiuntivi-woocommerce.php:38
+msgid "Definisci per quanti giorni dall'acquisto il cliente potrà visualizzare il corso all'interno di Learning Objects, NON indicare nulla se non necessario"
+msgstr "Define durante cuántos días después de la compra el cliente podrá ver el curso dentro de Learning Objects, NO indiques nada si no es necesario"
+
+#: include/campi-aggiuntivi-woocommerce.php:34
+msgid "N° giorni di validità"
+msgstr "N° de días de validez"
+
+#: include/campi-aggiuntivi-woocommerce.php:27
+msgid "Abilita per indicare se il corso è ecm"
+msgstr "Activar para indicar si el curso es ECM"
+
+#: include/campi-aggiuntivi-woocommerce.php:24
+msgid "ECM"
+msgstr "ECM"
+
+#: include/campi-aggiuntivi-woocommerce.php:18
+msgid "Abilita per indicare se il corso deve essere fruito su Learning Objects"
+msgstr "Activar para indicar si el curso debe usarse en Learning Objects"
+
+#: include/campi-aggiuntivi-woocommerce.php:15
+msgid "Learning Objects"
+msgstr "Learning Objects"
+
+#. Author URI of the plugin
+msgid "https://www.qltech.it"
+msgstr "https://www.qltech.it"
+
+#. Author of the plugin
+msgid "qltechsrl"
+msgstr "qltechsrl"
+
+#. Description of the plugin
+msgid "Learning Objects Woocommerce LMS is a plugin for Woocommerce that allows you to connect your shop or website to the professional Learning Objects environment for elearning."
+msgstr "Learning Objects LMS es un plugin para WooCommerce que te permite conectar tu tienda o tu web con el entorno profesional de Learning Objects para aprendizaje online."
+
+#. Plugin URI of the plugin
+msgid "https://www.qltech.it/en/learning-objects-woocommerce-lms-plugin/"
+msgstr "https://www.qltech.it/en/learning-objects-woocommerce-lms-plugin/"
+
+#. Plugin Name of the plugin
+msgid "Learning Objects LMS"
+msgstr "Learning Objects LMS"
